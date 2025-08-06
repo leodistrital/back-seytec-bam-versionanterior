@@ -1,0 +1,49 @@
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Light.woff2') format('woff2');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Book.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Semibold.woff2') format('woff2');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelR';
+	src:	url('NouvelR-Extrabold.woff2') format('woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'NouvelRVariable';
+	src:	url('NouvelR-Variable.woff2') format('woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+
